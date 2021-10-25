@@ -5,5 +5,9 @@ public class AxisBank {
 		System.out.println("AXIS BANK INTEREST RATES");
 		
 	}
+	public void savings() {
+		System.out.println("AXIS BANK INTEREST RATES");
+		
+	}
 
 }
